@@ -1,0 +1,70 @@
+[
+    {
+        "id":"1",
+        "cover":"https://i.ibb.co.com/wZfYb8xy/Oggy-And-Cockroaches-Xiaoqiang-Fat-Cat-Wall-Decals-Vinyl.jpg",
+        "title":"Top 10 E6 features u must know",
+        "author_img":"https://i.ibb.co.com/JWMJPD4G/tim-graf-k6h5-UZ32zo-unsplash.jpg",
+        "author":"Siam",
+        "posted_date":"june 8,2025",
+        "reading_time": 9,
+        "hashtag":[
+            "Development",
+            "resources"
+        ]
+
+        
+    },
+
+    {
+        "id":"2",
+        "cover":"https://i.ibb.co.com/rRXqY7R8/pexels-rpnickson-2559941.jpg",
+        "title":"Basic javaScrip or React",
+        "author_img":"https://i.ibb.co.com/QvH4Bnj9/marina-abrosimova-r8-Lm-Vb-UKgns-unsplash.jpg",
+        "author":"Jenny",
+        "posted_date":"june 25,2025",
+        "reading_time": 10,
+        "hashtag":[
+            "Coding",
+            "Development"
+        ]
+
+        
+    },
+
+
+    {
+        "id":"3",
+        "cover":"https://i.ibb.co.com/fGDkmhQh/peakpx.jpg",
+        "title":"Object oriented design",
+        "author_img":"https://i.ibb.co.com/Nd2GJyRR/jd-chow-gutlcc-GLXKI-unsplash.jpg",
+        "author":"Alamin",
+        "posted_date":"june 26,2025",
+        "reading_time": 5,
+        "hashtag":[
+            "Core concept",
+            "Development"
+        ]
+
+        
+    },
+
+    {
+        "id":"4",
+        "cover":"https://i.ibb.co.com/YBh9t0z0/pexels-frank-cone-140140-2258536.jpg",
+        "title":"Free image and resources collection",
+        "author_img":"https://i.ibb.co.com/Nd2GJyRR/jd-chow-gutlcc-GLXKI-unsplash.jpg",
+        "author":"Bappy",
+        "posted_date":"june 29,2025",
+        "reading_time": 11,
+        "hashtag":[
+            "Free image",
+            "Jpg format"
+        ]
+
+        
+    }
+
+    
+
+
+]
